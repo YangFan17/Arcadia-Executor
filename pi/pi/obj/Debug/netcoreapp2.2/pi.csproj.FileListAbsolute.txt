@@ -1,0 +1,10 @@
+C:\Users\Perha\Desktop\pi\pi\bin\Debug\netcoreapp2.2\pi.deps.json
+C:\Users\Perha\Desktop\pi\pi\bin\Debug\netcoreapp2.2\pi.runtimeconfig.json
+C:\Users\Perha\Desktop\pi\pi\bin\Debug\netcoreapp2.2\pi.runtimeconfig.dev.json
+C:\Users\Perha\Desktop\pi\pi\bin\Debug\netcoreapp2.2\pi.dll
+C:\Users\Perha\Desktop\pi\pi\obj\Debug\netcoreapp2.2\pi.csproj.CoreCompileInputs.cache
+C:\Users\Perha\Desktop\pi\pi\obj\Debug\netcoreapp2.2\pi.AssemblyInfoInputs.cache
+C:\Users\Perha\Desktop\pi\pi\obj\Debug\netcoreapp2.2\pi.AssemblyInfo.cs
+C:\Users\Perha\Desktop\pi\pi\bin\Debug\netcoreapp2.2\pi.pdb
+C:\Users\Perha\Desktop\pi\pi\obj\Debug\netcoreapp2.2\pi.dll
+C:\Users\Perha\Desktop\pi\pi\obj\Debug\netcoreapp2.2\pi.pdb
